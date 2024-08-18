@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|c:\\users\\matej\\onedrive\\desktop\\homework #1\\homework#1\\homework#1\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|solutionrelative:homework#1\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|c:\\users\\matej\\onedrive\\desktop\\homework #1\\homework#1\\homework#1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|solutionrelative:homework#1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|c:\\users\\matej\\onedrive\\desktop\\homework #1\\homework#1\\homework#1\\wwwroot\\simple.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|solutionrelative:homework#1\\wwwroot\\simple.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|c:\\users\\matej\\onedrive\\desktop\\homework #1\\homework#1\\homework#1\\wwwroot\\simple.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|solutionrelative:homework#1\\wwwroot\\simple.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|c:\\users\\matej\\onedrive\\desktop\\homework #1\\homework#1\\homework#1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|solutionrelative:homework#1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|c:\\users\\matej\\onedrive\\desktop\\homework #1\\homework#1\\homework#1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|solutionrelative:homework#1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|c:\\users\\matej\\onedrive\\desktop\\homework #1\\homework#1\\homework#1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B28AC2-DF33-450F-A5BC-9265850F184C}|Homework#1\\Homework#1.csproj|solutionrelative:homework#1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "simple.js",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\wwwroot\\simple.js",
+              "RelativeDocumentMoniker": "Homework#1\\wwwroot\\simple.js",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\wwwroot\\simple.js",
+              "RelativeToolTip": "Homework#1\\wwwroot\\simple.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-18T18:08:53.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "simple.html",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\wwwroot\\simple.html",
+              "RelativeDocumentMoniker": "Homework#1\\wwwroot\\simple.html",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\wwwroot\\simple.html",
+              "RelativeToolTip": "Homework#1\\wwwroot\\simple.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-18T18:08:21.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\Program.cs",
+              "RelativeDocumentMoniker": "Homework#1\\Program.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\Program.cs",
+              "RelativeToolTip": "Homework#1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:47:45.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Homework#1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Homework#1\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:56:26.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\StaticDb.cs",
+              "RelativeDocumentMoniker": "Homework#1\\StaticDb.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\StaticDb.cs",
+              "RelativeToolTip": "Homework#1\\StaticDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:53:19.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Homework#1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Homework#1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:47:50.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Homework#1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework #1\\Homework#1\\Homework#1\\WeatherForecast.cs",
+              "RelativeToolTip": "Homework#1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:47:45.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
