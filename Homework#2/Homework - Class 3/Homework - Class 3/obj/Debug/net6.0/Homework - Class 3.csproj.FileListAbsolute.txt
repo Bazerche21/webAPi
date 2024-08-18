@@ -1,0 +1,32 @@
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\appsettings.json
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Homework - Class 3.exe
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Homework - Class 3.deps.json
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Homework - Class 3.runtimeconfig.json
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Homework - Class 3.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Homework - Class 3.pdb
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.csproj.AssemblyReference.cache
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\staticwebassets\msbuild.Homework - Class 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\staticwebassets\msbuild.build.Homework - Class 3.props
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Homework - Class 3.props
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Homework - Class 3.props
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\scopedcss\bundle\Homework - Class 3.styles.css
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework.223F8F87.Up2Date
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\refint\Homework - Class 3.dll
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.pdb
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\Homework - Class 3.genruntimeconfig.cache
+C:\Users\matej\OneDrive\Desktop\Homework#2\Homework - Class 3\Homework - Class 3\obj\Debug\net6.0\ref\Homework - Class 3.dll
